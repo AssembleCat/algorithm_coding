@@ -3,7 +3,6 @@ package algorithm.java.String;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 /*단어 뒤집기
 N개의 단어가 주어지면 각 단어를 뒤집어 출력하는 프로그램을 작성하세요.
