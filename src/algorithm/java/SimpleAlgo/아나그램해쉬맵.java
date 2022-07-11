@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
-import java.util.Locale;
 
 public class 아나그램해쉬맵 {
     public static void main(String[] args) throws IOException {
